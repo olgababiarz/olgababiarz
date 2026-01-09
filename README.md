@@ -12,7 +12,7 @@ Aktualnie rozwijam swoje umiejętności we **front-end developmencie**. Skupiam 
 ### 🚀 Nad czym obecnie pracuję?
 * 🏗️ **Rozbudowa portfolio**: Przekształcam gotowy landing page w pełną witrynę z menu i podstronami.
 * ⌨️ **JavaScript**: Stawiam pierwsze kroki w logice i interaktywności stron.
-* 🇬🇧 **Angielski w IT**: Intensywnie szlifuję język, aby swobodnie korzystać z dokumentacji i materiałów technicznych.
+* 📖 **Angielski w IT**: Intensywnie szlifuję język, aby swobodnie korzystać z dokumentacji i materiałów technicznych.
 
 ### ✨ Kilka słów o mnie:
 - 🌱 **Uczę się:** JavaScriptu oraz dobrych praktyk w budowaniu dostępnych stron internetowych (Accessibility).
